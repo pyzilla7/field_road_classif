@@ -4,6 +4,6 @@
 
 
 * Minimal code to run best model : example.py 
-* Choosen article : 2303.04803.pdf
+* Chosen article : 2303.04803.pdf
 
 * Checkpoints folder are available here (too big for github) : https://drive.google.com/drive/folders/1sOMRWaWxRdn6tZzd0YMCRQGzAHI_JsOS?usp=sharing 
